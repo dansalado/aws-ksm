@@ -1,8 +1,10 @@
-<svg width="500" height="350">
-         <defs>
-            <clipPath id="myCircle">
-               <circle cx="250" cy="145" r="125" fill="#FFFFFF" />
-            </clipPath>
-         </defs>
-         <image width="500" height="350" xlink:href="https://www.tutorialspoint.com/videotutorials/images/coding_ground_home.jpg" clip-path="url(#myCircle)" />
-      </svg>
+<svg fill="none" viewBox="0 0 500 350" width="500" height="350" xmlns="http://www.w3.org/2000/svg">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <defs>
+      <clipPath id="myCircle">
+        <circle cx="250" cy="145" r="125" fill="#FFFFFF" />
+      </clipPath>
+    </defs>
+    <image width="500" height="350" xlink:href="https://www.tutorialspoint.com/videotutorials/images/coding_ground_home.jpg" clip-path="url(#myCircle)" />
+  </div>
+</svg>
